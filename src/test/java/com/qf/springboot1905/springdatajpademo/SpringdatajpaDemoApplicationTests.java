@@ -34,4 +34,9 @@ public class SpringdatajpaDemoApplicationTests {
 	public void test(){
 		Set set = new HashSet();
 	}
+
+	@Test
+	public void test1(){
+		System.out.println("=======");
+	}
 }
